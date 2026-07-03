@@ -15,18 +15,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Summary
+**Summary**
+
 Hi, I'm Yaksheetha Nadikattu, an aspiring software engineer with a passion for AI, machine learning, and building impactful tech solutions. I love blending innovation with purpose. Currently pursuing my B.Tech. in Computer Science, I'm on a journey to master cloud computing, deep learning.
 
 About Me
-🎓 Education:
+
+ Education:
 
 B.Tech. in Computer Science and Engineering at Vignan's Nirula Institute of Technology and Science for Women (2023–Present) CGPA: 8.48
 Senior Secondary – APBIE Board (2021–2023) – 96.3%
 Secondary School – SSC Board (2021) – GPA: 10.0
-🧠 Learning Focus: AI/ML, cloud infrastructure (AWS), computer vision, NLP, and beginner-friendly project design.
+ Learning Focus: AI/ML, cloud infrastructure (AWS), computer vision, NLP, and beginner-friendly project design.
 
-💬 Languages & Tools: Python, Java, HTML/CSS, Flask, MySQL, VS Code, AWS (EC2, S3, Serverless)
+ Languages & Tools: Python, Java, HTML/CSS, Flask, MySQL, VS Code, AWS (EC2, S3, Serverless)
 
 Top Projects
 
